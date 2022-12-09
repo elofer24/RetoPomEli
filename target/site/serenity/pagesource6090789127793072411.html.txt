@@ -1,0 +1,965 @@
+<html lang="es"><head>
+	<meta charset="UTF-8"><style id="litespeed-ccss">.vc_row:after,.vc_row:before{content:" ";display:table}.vc_row:after{clear:both}.vc_column_container{width:100%}.vc_row{margin-left:-15px;margin-right:-15px}.vc_col-sm-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}@media (min-width:768px){.vc_col-sm-12{float:left}.vc_col-sm-12{width:100%}}.vc_clearfix:after,.vc_clearfix:before{content:" ";display:table}.vc_clearfix:after{clear:both}.vc_clearfix:after,.vc_clearfix:before{content:" ";display:table}.vc_clearfix:after{clear:both}.wpb_content_element{margin-bottom:35px}.vc_row.vc_row-no-padding .vc_column-inner{padding-left:0;padding-right:0}.vc_row[data-vc-full-width]{overflow:hidden}.vc_column-inner:after,.vc_column-inner:before{content:" ";display:table}.vc_column-inner:after{clear:both}.vc_column_container{padding-left:0;padding-right:0}.vc_column_container>.vc_column-inner{box-sizing:border-box;padding-left:15px;padding-right:15px;width:100%}.vc_section{padding-left:15px;padding-right:15px;margin-left:-15px;margin-right:-15px}.vc_section.vc_section-flex{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-ms-flex-flow:column nowrap;flex-flow:column nowrap}.vc_section.vc_section-flex:after,.vc_section.vc_section-flex:before{display:none}.vc_section.vc_section-o-content-middle{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.vc_section.vc_section-o-content-middle:after{content:'';width:100%;height:0;overflow:hidden;visibility:hidden;display:block}.wpb_single_image a{border:none;outline:0}.wpb_single_image img{height:auto;max-width:100%;vertical-align:top}.wpb_single_image .vc_single_image-wrapper{display:inline-block;vertical-align:top;max-width:100%}.wpb_single_image.vc_align_center{text-align:center}.wpb_single_image .vc_figure{display:inline-block;vertical-align:top;margin:0;max-width:100%}.wpb_animate_when_almost_visible{opacity:0}.wpb_animate_when_almost_visible:not(.wpb_start_animation){-webkit-animation:none;-o-animation:none;animation:none}.full-width{width:100%}.full-width *{min-width:100%}.vc_section{padding-left:0!important;padding-right:0!important;margin-left:0!important;margin-right:0!important}ul.vc_tta-tabs-list .vc_tta-tab{font-size:12px;letter-spacing:.1em;font-weight:500;text-transform:uppercase;float:left}ul.vc_tta-tabs-list .vc_tta-tab:not(:last-child){margin-right:32px}ul.vc_tta-tabs-list .vc_tta-tab a{color:#1b1b1b!important;background:0 0!important}ul.vc_tta-tabs-list .vc_tta-tab.vc_active a{color:#f34f3f!important}.wpb_content_element{margin-bottom:0!important}@media only screen and (max-width:768px){.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-body{padding:15px 0!important}.vc_tta-panel-heading{display:none}.wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container{display:inline-block!important;width:100%}.wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container>ul{width:100%}.wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container>ul>li{width:33.333%;margin:0}.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tab>a{padding:0!important}.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tab>a span.vc_tta-title-text{font-size:11px;margin:0!important}}.vc_custom_1576456384071{padding-top:50px!important;padding-right:8%!important;padding-bottom:0!important;padding-left:8%!important}:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-20:#005a87}.woocommerce img{height:auto;max-width:100%}.woocommerce ul.products{clear:both}.woocommerce ul.products:after,.woocommerce ul.products:before{content:' ';display:table}.woocommerce ul.products:after{clear:both}.woocommerce ul.products li.product{float:left;margin:0 3.8% 2.992em 0;padding:0;position:relative;width:22.05%;margin-left:0}.woocommerce ul.products li.first{clear:both}.woocommerce ul.products li.last{margin-right:0}.woocommerce ul.products.columns-3 li.product{width:30.75%}.woocommerce.columns-3 ul.products li.product{width:30.75%}@media only screen and (max-width:768px){.woocommerce ul.products[class*=columns-] li.product{width:48%;float:left;clear:both;margin:0 0 2.992em}.woocommerce ul.products[class*=columns-] li.product:nth-child(2n){float:right;clear:none!important}}.screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute!important;width:1px;word-wrap:normal!important}.woocommerce ul.products{margin:0 0 1em;padding:0;list-style:none outside;clear:both}.woocommerce ul.products:after,.woocommerce ul.products:before{content:' ';display:table}.woocommerce ul.products:after{clear:both}.woocommerce ul.products li{list-style:none outside}.woocommerce ul.products li.product .woocommerce-loop-product__title{padding:.5em 0;margin:0;font-size:1em}.woocommerce ul.products li.product a{text-decoration:none}.woocommerce ul.products li.product a img{width:100%;height:auto;display:block;margin:0 0 1em;box-shadow:none}.woocommerce ul.products li.product .price{color:#77a464;display:block;font-weight:400;margin-bottom:.5em;font-size:.857em}.dgwt-wcas-search-wrapp{position:relative;line-height:100%;display:block;color:#444;min-width:230px;width:100%;text-align:left;margin:0 auto;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.dgwt-wcas-search-wrapp *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.dgwt-wcas-search-form{margin:0;padding:0;width:100%}input[type=search].dgwt-wcas-search-input{-webkit-box-shadow:none;box-shadow:none;margin:0;-webkit-appearance:textfield;text-align:left}[type=search].dgwt-wcas-search-input::-ms-clear{display:none}[type=search].dgwt-wcas-search-input::-webkit-search-decoration{-webkit-appearance:none}[type=search].dgwt-wcas-search-input::-webkit-search-cancel-button{display:none}.dgwt-wcas-ico-magnifier{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0;height:65%;display:block}.dgwt-wcas-preloader{height:100%;position:absolute;right:0;top:0;width:40px;z-index:1;background-repeat:no-repeat;background-position:right 15px center;background-size:auto 44%}.screen-reader-text{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute!important;width:1px}.dgwt-wcas-sf-wrapp:after,.dgwt-wcas-sf-wrapp:before{content:"";display:table}.dgwt-wcas-sf-wrapp:after{clear:both}.dgwt-wcas-sf-wrapp{zoom:1;width:100%;margin:0;position:relative;background:0 0}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input{width:100%;height:40px;font-size:14px;line-height:100%;padding:10px 15px;margin:0;background:#fff;border:1px solid #ddd;border-radius:3px;-webkit-border-radius:3px;-webkit-appearance:none;box-sizing:border-box}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input::-webkit-input-placeholder{color:#999;font-weight:400;font-style:italic;line-height:normal}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:-moz-placeholder{color:#999;font-weight:400;font-style:italic;line-height:normal}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input::-moz-placeholder{color:#999;font-weight:400;font-style:italic;line-height:normal}.dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:-ms-input-placeholder{color:#999;font-weight:400;font-style:italic;line-height:normal}.dgwt-wcas-ico-magnifier{fill:#fff}.dgwt-wcas-no-submit .dgwt-wcas-ico-magnifier{height:50%;margin:auto;max-height:20px;width:100%;max-width:20px;left:12px;right:auto;opacity:.5;fill:#000}.dgwt-wcas-no-submit .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input{padding:10px 15px 10px 40px}.dgwt-wcas-ico-magnifier{max-width:20px}.fa,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa-bars:before{content:"\f0c9"}.fa-check:before{content:"\f00c"}.fa-phone:before{content:"\f095"}.fa-shopping-bag:before{content:"\f290"}.fa-times:before{content:"\f00d"}.fa-user:before{content:"\f007"}.fa,.fas{font-family:"Font Awesome 5 Free"}.fa,.fas{font-weight:900}html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}article,figure,header,main,nav,section{display:block}a{background-color:transparent}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}input{margin:0;font:inherit;color:inherit}input::-moz-focus-inner{padding:0;border:0}input{line-height:normal}input[type=search]{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;-webkit-appearance:textfield}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}figure{margin:0}img{vertical-align:middle}h2,h4{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h2{margin-top:20px;margin-bottom:10px}h4{margin-top:10px;margin-bottom:10px}h2{font-size:30px}h4{font-size:18px}ul{margin-top:0;margin-bottom:10px}ul ul{margin-bottom:0}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}input[type=search]{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}input[type=search]{-webkit-appearance:none}.dropdown{position:relative}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;font-size:14px;text-align:left;list-style:none;background-color:#fff;-webkit-background-clip:padding-box;background-clip:padding-box;border:1px solid #ccc;border:1px solid rgba(0,0,0,.15);border-radius:4px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175)}.container:after,.container:before{display:table;content:" "}.container:after{clear:both}@-ms-viewport{width:device-width}.woocommerce ul.products{margin:0 -20px}.woocommerce ul.products .product{width:33.333%!important;display:inline-block;padding:0 20px!important;margin:0 0 40px!important;box-sizing:border-box;clear:none!important}.woocommerce ul.products .product:nth-child(3n+1){clear:both}.woocommerce ul.products .product .attachment-woocommerce_thumbnail{display:block;width:100%}.woocommerce ul.products .product .woocommerce-loop-product__title{display:block;color:#1b1b1b;font-family:Montserrat;font-size:14px!important;line-height:2em;font-weight:500;letter-spacing:.1em;text-transform:uppercase;width:100%;text-align:center}.woocommerce ul.products .product .price{position:relative;margin:-6px 0 0;margin-bottom:0;line-height:1;color:#afafaf;font-family:Montserrat,sans-serif;font-size:12px!important;text-align:center}.woocommerce ul.products .product .price>span:first-child{color:#77a464!important;text-decoration:none!important;font-weight:600}.woocommerce ul.products .product .price>span:last-child{color:#afafaf;text-decoration:line-through}@media only screen and (max-width:768px){.woocommerce ul.products .product{width:100%!important;display:inline-block;float:none!important;clear:none!important;margin:0 0 5em!important;padding:0 5px!important;box-sizing:border-box}.woocommerce ul.products .product .woocommerce-loop-product__title{line-height:16px!important;margin-bottom:8px!important;min-height:46px}.woocommerce ul.products .product .price{margin:-22px 0 0}.woocommerce ul.products{margin:0}}html{overflow-y:scroll!important}body{font-family:Montserrat,sans-serif;font-size:15px;line-height:24px;overflow-x:hidden!important;-webkit-font-smoothing:antialiased}html,body{margin:0;overflow-x:hidden!important}a,body,label{color:#6d6a6a}h4 a{letter-spacing:inherit;text-transform:inherit}a,body,div,form,h2,h4,html,i,label,li,span,ul{background:0 0;border:0;margin:0;padding:0;vertical-align:baseline;outline:0}body{background-color:#fff}a img{border:none}ul{margin:15px 0}article,figure,header,nav,section{display:block}img{max-width:100%;height:auto}h4 a{font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;line-height:inherit;color:inherit}h2,h4{margin:20px 0;color:#2b2b2b;font-family:"Playfair Display",serif;font-weight:400}h2{font-size:38px;line-height:1.447em}h4{font-size:24px;line-height:1.5em}a{text-decoration:none}ul{list-style-position:inside}ul ul{margin:0;padding:0 0 0 15px}header{width:100%;display:block}header>.topbar{background:#181f27;width:100%;font-size:12px;text-transform:uppercase;box-sizing:border-box}header>.topbar>.container{height:45px;text-align:center;padding-top:11px}header>.topbar .top-left,header>.topbar .top-center,header>.topbar .top-right{display:inline-block}header>.topbar .top-left{color:#fff;float:left}header>.topbar .top-left a{color:#fff;margin-left:5px}header>.topbar .top-center{color:#fff}header>.topbar .top-right{background-color:#fff;border-radius:5px;padding:0 10px;float:right}header>.topbar .top-right a{color:#000;font-weight:700}header>.header-wrapper{position:relative;height:auto;padding-top:16px;padding-bottom:16px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:flex-end;box-sizing:border-box}header>.header-wrapper .header-logo{left:15px;position:absolute}header>.header-wrapper .header-logo img{width:100px;height:auto}header>.header-wrapper .header-menu.navmenu ul li{position:relative;display:inline-block;padding:0;margin:0;box-sizing:border-box}header>.header-wrapper .header-menu.navmenu ul li a{position:relative!important;width:100%;height:100%;padding:0 8px;font-family:Montserrat,sans-serif;font-size:12px;font-weight:500;color:#1b1b1b;text-transform:uppercase;line-height:22px;letter-spacing:.1em;box-sizing:border-box;vertical-align:middle}header>.header-wrapper .header-menu.navmenu ul li a.dropdown-toggle:after{content:"\f078";font-family:"FontAwesome";font-size:10px;position:relative;top:-2px;margin-left:4px}header>.header-wrapper .header-menu.navmenu ul li .dropdown-menu{top:22px;background:no-repeat;border:none;position:absolute;left:-13px;width:auto;height:0;padding:45px 0 12px;display:none;box-shadow:none;z-index:1}header>.header-wrapper .header-menu.navmenu ul li.dropdown ul{columns:3;padding:16px;background:#fff;border-top:none;box-shadow:0 5px 5px 0 rgba(0,0,0,.03)}header>.header-wrapper .header-menu.navmenu ul li.dropdown ul li{white-space:nowrap;text-align:left;display:block;margin-bottom:6px}header>.header-wrapper .header-cart ul li{position:relative;display:inline-block;padding:0 8px;margin:0;box-sizing:border-box}header>.header-wrapper .header-cart ul li .fa{font-size:18px;color:#f6aab5}header>.header-wrapper .header-cart ul li .navmenu__circle{position:absolute;top:11px;left:13px;width:13px;height:13px;background-color:#4bb9a4;font-size:8px;color:#fff;font-weight:600;line-height:1.5em;border-radius:50%;text-align:center}header>.header-wrapper .header-cart ul li .navmenu__txtuser{position:relative;color:#1b1b1b;font-family:Montserrat,sans-serif;font-size:12px;font-weight:500;letter-spacing:.1em;line-height:27px;text-transform:uppercase;margin-left:8px;top:-1px}@media only screen and (max-width:680px){h2{font-size:30px}h4{font-size:22px}}@media only screen and (min-width:768px){header.mobile-header{display:none}}@media (max-width:575.98px){header>.topbar .top-right a{font-size:8px}}@media only screen and (max-width:768px){header.desktop-header{display:none}header.mobile-header{display:block}header.mobile-header>.header-wrapper .header-logo{position:relative;margin:0 auto}header.mobile-header .dgwt-wcas-search-wrapp{width:94%;margin-bottom:16px}header .header-side{background-color:#fff;height:100vh;min-height:100vh;overflow:hidden;padding:56px 51px 80px 75px;box-sizing:border-box;position:fixed;top:0;right:0;width:105%;z-index:9999;-webkit-backface-visibility:hidden;-webkit-transform:translate3d(170%,0,0);-moz-transform:translate3d(170%,0,0);transform:translate3d(170%,0,0)}header .header-side .close-header-side-holder{display:block;position:absolute;top:19px;right:21px;z-index:1000}header .header-side .close-header-side-holder i{color:#f34f3f;font-size:22px}header .header-side nav.navmenu ul{padding:0;margin:0;list-style-type:none}header .header-side nav.navmenu ul li{position:relative;padding:0;margin:0;-webkit-transform:translateZ(0)}header .header-side nav.navmenu ul li a{color:#0e0e0e;text-transform:uppercase;letter-spacing:.1em;padding:11px 0;position:relative;display:block;margin:0;font-size:12px;font-family:Montserrat,sans-serif;font-weight:600}header .header-side nav.navmenu ul li a.dropdown-toggle:after{content:"\f078";font-family:"Font Awesome 5 Free";margin-left:8px}}.wpb-js-composer .vc_tta-container{margin-bottom:21.73913043px}.wpb-js-composer .vc_tta.vc_general{font-size:1em}.wpb-js-composer .vc_tta.vc_general .vc_tta-panels,.wpb-js-composer .vc_tta.vc_general .vc_tta-panels-container{-webkit-box-sizing:border-box;box-sizing:border-box;position:relative}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel{display:block}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-heading{border:solid transparent;-webkit-box-sizing:border-box;box-sizing:border-box}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title{margin:0;line-height:1}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title>a{background:0 0;display:block;padding:14px 20px;-webkit-box-sizing:border-box;box-sizing:border-box;text-decoration:none;color:inherit;position:relative;border:none;-webkit-box-shadow:none;box-shadow:none}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-body{border:solid transparent;-webkit-box-sizing:content-box;box-sizing:content-box;padding:14px 20px;display:none;overflow:hidden;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-body>:last-child{margin-bottom:0}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel.vc_active{display:block}.wpb-js-composer .vc_tta.vc_general .vc_tta-panel.vc_active .vc_tta-panel-body{display:block}.wpb-js-composer .vc_tta.vc_general .vc_tta-tabs-container{display:block;position:relative;z-index:3}.wpb-js-composer .vc_tta.vc_general .vc_tta-tabs-list{list-style-type:none;display:block;padding:0;margin:0;-webkit-box-sizing:border-box;box-sizing:border-box}.wpb-js-composer .vc_tta.vc_general .vc_tta-tab{display:inline-block;padding:0;margin:0}.wpb-js-composer .vc_tta.vc_general .vc_tta-tab>a{padding:14px 20px;display:block;-webkit-box-sizing:border-box;box-sizing:border-box;border:solid transparent;position:relative;text-decoration:none;color:inherit;-webkit-box-shadow:none;box-shadow:none}.wpb-js-composer .vc_tta.vc_general .vc_tta-tab.vc_active>a{text-decoration:none;color:inherit;-webkit-box-shadow:none;box-shadow:none}.wpb-js-composer .vc_tta.vc_general .vc_tta-tab.vc_active>a:after,.wpb-js-composer .vc_tta.vc_general .vc_tta-tab.vc_active>a:before{display:none;content:'';position:absolute;border-width:inherit;border-color:inherit;border-style:inherit;width:100vw;height:200vw}.wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container{display:none}@media (min-width:768px){.wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container{display:block}.wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-panel-heading{display:none}}.wpb-js-composer .vc_tta.vc_tta-shape-rounded .vc_tta-panel-body{min-height:10px}.wpb-js-composer .vc_tta.vc_tta-shape-rounded .vc_tta-panel-body,.wpb-js-composer .vc_tta.vc_tta-shape-rounded .vc_tta-panel-heading{border-radius:5px}.wpb-js-composer .vc_tta.vc_tta-shape-rounded .vc_tta-tabs-container{margin:5px}.wpb-js-composer .vc_tta.vc_tta-shape-rounded .vc_tta-tab>a{border-radius:5px}@media (min-width:768px){.wpb-js-composer .vc_tta.vc_tta-shape-rounded.vc_tta-tabs .vc_tta-panels{border-radius:5px}}.wpb-js-composer .vc_tta-shape-rounded:not(.vc_tta-o-no-fill) .vc_tta-panel.vc_active .vc_tta-panel-heading{border-bottom-left-radius:0;border-bottom-right-radius:0}.wpb-js-composer .vc_tta-shape-rounded:not(.vc_tta-o-no-fill) .vc_tta-panel.vc_active .vc_tta-panel-body{border-top-left-radius:0;border-top-right-radius:0}@media (min-width:768px){.wpb-js-composer .vc_tta-shape-rounded.vc_tta-tabs .vc_tta-panel-body:after,.wpb-js-composer .vc_tta-shape-rounded.vc_tta-tabs .vc_tta-panel-body:before{-webkit-box-sizing:border-box;box-sizing:border-box;content:'';display:none;position:absolute;width:5px;height:5px;border-radius:5px;border-style:inherit;border-width:inherit}}.wpb-js-composer .vc_tta.vc_tta-style-flat .vc_tta-panel-body,.wpb-js-composer .vc_tta.vc_tta-style-flat .vc_tta-panel-heading{border-width:0}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-heading{background-color:#fafafa}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-title>a{color:#666}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel.vc_active .vc_tta-panel-heading{background-color:#fff}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel.vc_active .vc_tta-panel-title>a{color:#666}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-body{background-color:#fff}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat:not(.vc_tta-o-no-fill) .vc_tta-panel-body{color:#666}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat .vc_tta-tab>a{background-color:#fafafa;color:#666}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat .vc_tta-tab.vc_active>a{background-color:#fff;color:#666}@media (min-width:768px){.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat.vc_tta-tabs .vc_tta-panels{background-color:#fff}.wpb-js-composer .vc_tta-color-white.vc_tta-style-flat.vc_tta-tabs .vc_tta-panels .vc_tta-panel-body{border-color:transparent;background-color:transparent}}.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-panel.vc_active+.vc_tta-panel .vc_tta-panel-heading,.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-panel:not(:first-child) .vc_tta-panel-heading{margin-top:1px}.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-panel.vc_active .vc_tta-panel-heading,.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-panel:not(:last-child) .vc_tta-panel-heading{margin-bottom:1px}.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tabs-list{padding:0;margin-top:-1px;margin-bottom:0;margin-left:-1px;margin-right:0}.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tab{margin-top:1px;margin-bottom:0;margin-left:1px;margin-right:0}.wpb-js-composer .vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-tabs-container{overflow:hidden}.wpb-js-composer .vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-tabs-list{overflow:hidden}.wpb-js-composer .vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-panel-body:before{right:auto;bottom:auto;border-top-right-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;border-right-width:0;border-bottom-width:0}.wpb-js-composer .vc_tta-tabs.vc_tta-tabs-position-top .vc_tta-panel-body:after{left:auto;bottom:auto;border-top-left-radius:0;border-bottom-left-radius:0;border-bottom-right-radius:0;border-left-width:0;border-bottom-width:0}.wpb-js-composer .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top .vc_tta-tab>a{border-bottom-left-radius:0;border-bottom-right-radius:0}.wpb-js-composer .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top .vc_tta-tab.vc_active>a{border-bottom-color:transparent}.wpb-js-composer .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top .vc_tta-tab.vc_active>a:before{display:block;height:auto;top:100%;right:100%;border-bottom:0;border-left:0;border-right:0}.wpb-js-composer .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top .vc_tta-tab.vc_active>a:after{display:block;height:auto;top:100%;left:100%;border-bottom:0;border-left:0;border-right:0}.wpb-js-composer .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top .vc_tta-tabs-container{margin-top:0;margin-bottom:0}.wpb-js-composer .vc_tta.vc_tta-controls-align-center .vc_tta-panel-heading,.wpb-js-composer .vc_tta.vc_tta-controls-align-center .vc_tta-tabs-container{text-align:center}@-webkit-keyframes fadeIn{0%{opacity:0}100%{opacity:1}}@keyframes fadeIn{0%{opacity:0}100%{opacity:1}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn}</style><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WD3WR9F"></script><script>!function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <meta name="keywords" content="Flores Medellin, floristerias, floristerias medellin, envios a domicilio, enviar, florerias, mandar, ramos, arreglos florales, online, internet, Poblado, Laureles, regalos, cajas de flores, plantas, anchetas">
+	
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	const gtm4wp_use_sku_instead        = 0;
+	const gtm4wp_id_prefix              = '';
+	const gtm4wp_remarketing            = false;
+	const gtm4wp_eec                    = 1;
+	const gtm4wp_classicec              = 1;
+	const gtm4wp_currency               = 'COP';
+	const gtm4wp_product_per_impression = 0;
+	const gtm4wp_needs_shipping_address = false;
+	const gtm4wp_business_vertical      = 'retail';
+	const gtm4wp_business_vertical_id   = 'id';
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><script type="text/javascript">
+const gtm4wp_is_safari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+if ( gtm4wp_is_safari ) {
+	window.addEventListener('pageshow', function(event) {
+		if ( event.persisted ) {
+			// if Safari loads the page from cache usually by navigating with the back button
+			// it creates issues with product list click tracking
+			// therefore GTM4WP forces the page reload in this browser
+			window.location.reload();
+		}
+	});
+}
+</script>
+	<!-- This site is optimized with the Yoast SEO plugin v18.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Floristerias en Medellin - Flores a domicilio Medellín | San Angel</title>
+	<meta name="description" content="Floristerias en medellin - flores a domicilio Medellin | San Angel. Encontrará flores hermosas, Floristeria El Poblado, Envigado, Bello, Whatsapp 3185171116.">
+	<link rel="canonical" href="https://sanangel.com.co/">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Floristerias en Medellin - Flores a domicilio Medellín | San Angel">
+	<meta property="og:description" content="Floristerias en medellin - flores a domicilio Medellin | San Angel. Encontrará flores hermosas, Floristeria El Poblado, Envigado, Bello, Whatsapp 3185171116.">
+	<meta property="og:url" content="https://sanangel.com.co/">
+	<meta property="og:site_name" content="San Angel Medellin | Flores &amp; Regalos">
+	<meta property="article:publisher" content="http://facebook.com/sanangelflores">
+	<meta property="article:modified_time" content="2022-11-01T20:41:26+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Tiempo de lectura">
+	<meta name="twitter:data1" content="4 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://sanangel.com.co/#organization","name":"San Angel","url":"https://sanangel.com.co/","sameAs":["http://facebook.com/sanangelflores","http://instagram.com/sanangelflores"],"logo":{"@type":"ImageObject","@id":"https://sanangel.com.co/#logo","inLanguage":"es","url":"https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-mas-que-un-mensaje-muchos-sentimientos.jpg","contentUrl":"https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-mas-que-un-mensaje-muchos-sentimientos.jpg","width":400,"height":612,"caption":"San Angel"},"image":{"@id":"https://sanangel.com.co/#logo"}},{"@type":"WebSite","@id":"https://sanangel.com.co/#website","url":"https://sanangel.com.co/","name":"San Angel | Floristerias en Medellin, Flores a domicilio","description":"Floristerias Medellin, Flores en Medellín, Flores a domicilio - San Angel","publisher":{"@id":"https://sanangel.com.co/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://sanangel.com.co/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"WebPage","@id":"https://sanangel.com.co/#webpage","url":"https://sanangel.com.co/","name":"Floristerias en Medellin - Flores a domicilio Medellín | San Angel","isPartOf":{"@id":"https://sanangel.com.co/#website"},"about":{"@id":"https://sanangel.com.co/#organization"},"datePublished":"2020-12-12T23:25:05+00:00","dateModified":"2022-11-01T20:41:26+00:00","description":"Floristerias en medellin - flores a domicilio Medellin | San Angel. Encontrará flores hermosas, Floristeria El Poblado, Envigado, Bello, Whatsapp 3185171116.","breadcrumb":{"@id":"https://sanangel.com.co/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://sanangel.com.co/"]}]},{"@type":"BreadcrumbList","@id":"https://sanangel.com.co/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="San Angel Medellin | Flores &amp; Regalos » Feed" href="https://sanangel.com.co/feed/">
+<link rel="alternate" type="application/rss+xml" title="San Angel Medellin | Flores &amp; Regalos » Feed de los comentarios" href="https://sanangel.com.co/comments/feed/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sanangel.com.co\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="https://sanangel.com.co/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="js_composer_front-css" href="https://sanangel.com.co/wp-content/litespeed/css/ef893f764e3085d95dbe2db9a41e53b3.css?ver=e53b3" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/ef893f764e3085d95dbe2db9a41e53b3.css?ver=e53b3' type='text/css' media='all' /></noscript>
+<style id="js_composer_front-inline-css" type="text/css">
+.full-width{
+    width: 100%;
+}
+
+.full-width * {
+    min-width: 100%;
+}
+
+.vc_section {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+ul.vc_tta-tabs-list .vc_tta-tab{
+    font-size: 12px;
+    letter-spacing: .1em;
+    font-weight: 500;
+    text-transform: uppercase;
+    float: left;
+}
+
+ul.vc_tta-tabs-list .vc_tta-tab:not(:last-child) {
+    margin-right: 32px;
+}
+
+ul.vc_tta-tabs-list .vc_tta-tab a {
+    color: #1b1b1b !important;
+    background: none !important;
+}
+
+ul.vc_tta-tabs-list .vc_tta-tab.vc_active a{
+    color: var(--main-color) !important;
+    font-weight: 800;
+}
+
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid > li{
+    margin-bottom: 0px !important;
+}
+
+
+.home-feature_banner-holder > .wpb_column {
+    padding: 8px;
+}
+
+.home-feature_banner-holder .feature_banner-subtitle {
+    margin: 13px 0;
+    margin-bottom: 13px;
+}
+
+.home-feature_banner-holder .feature_banner-subtitle.icon-whatsapp {
+    margin-top: 18px;
+}
+
+.home-feature_banner-holder .feature_banner-subtitle h1 {
+    position: relative;
+    color: var(--main-color);
+    margin: 0 0 4px;
+    z-index: 10;
+    font-size: 40px;
+    max-width: 50%;
+}
+
+.home-feature_banner-holder .feature_banner-subtitle h3 {
+    position: relative;
+    color: var(--main-color);
+    margin: 0 0 4px;
+    z-index: 10;
+    font-size: 22px;
+    max-width: 60%;
+    padding-left: 8px;
+}
+
+.home-feature_banner-holder .feature_banner-subtitle.icon-diamond h3::before {
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 22px;
+    position: relative;
+    content: "\f219";
+    left: -7px;
+    color: var(--main-color) !important;
+}
+
+.home-feature_banner-holder .feature_banner-subtitle.icon-whatsapp h3::before {
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 26px;
+    position: relative;
+    content: "\f232";
+    left: -7px;
+    color: var(--main-color) !important;
+}
+
+.home-feature_banner-holder .feature_banner-subtitle.icon-whatsapp h3 a{
+    color: var(--main-color);
+}
+
+.home-feature_banner-holder .feature_banner-subtitle.icon-spa h3::before {
+    font-size: 22px;
+    position: relative;
+    content: "";
+    left: -8px;
+    color: var(--main-color) !important;
+    background: var(--main-color) url("https://sanangel.com.co/wp-content/themes/san-angel/img/icon-flower.png");
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-size: auto;
+    background-size: 100%;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: center 5px;
+    border-radius: 50%;
+    top: 5px;
+}
+
+.vc_gitem-post-data-source-post_title h4 {
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.insta-gallery-feed[data-feed_layout=carousel] {
+    position: relative;
+}
+
+.insta-gallery-feed.loaded .insta-gallery-actions {
+    position: absolute;
+    top: calc(50% - 40.5px);
+    left: 50%;
+    z-index: 2;
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    transform: translate(-50%);
+}
+
+.insta-gallery-feed.loaded .insta-gallery-actions .insta-gallery-button.follow {
+    color: #2d2b2b;
+    font-family: Montserrat,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    padding: 18px;
+}
+
+@media only screen and (max-width: 768px) {
+    .wpb-js-composer .vc_tta.vc_general .vc_tta-panel-body{
+        padding: 15px 0 !important;
+    }
+    
+    .vc_tta-panel-heading {
+        display: none;
+    }
+    
+    .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container {
+        display: inline-block !important;
+        width: 100%;
+    }
+    
+    .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container > ul {
+        width: 100%;
+    }
+    
+    .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container > ul > li {
+        width: 33.333%;
+        margin: 0;
+    }
+    
+    .wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tab > a {
+        padding: 0 !important;
+    }
+    
+    .wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tab > a span.vc_tta-title-text{
+        font-size: 11px;
+        margin: 0 !important;
+    }
+    
+    .home-feature_banner-holder .feature_banner-subtitle h1 {
+        max-width: 70%;
+        font-size: 36px;
+    }
+    
+    .home-feature_banner-holder .feature_banner-subtitle h3 {
+        max-width: 100%;
+        padding: 8px 0;
+        padding-left: 8px;
+        font-size: 20px;
+    }
+}
+.vc_custom_1576456384071{padding-top: 50px !important;padding-right: 8% !important;padding-bottom: 0px !important;padding-left: 8% !important;}.vc_custom_1576453712964{padding-right: 8% !important;padding-bottom: 50px !important;padding-left: 8% !important;}.vc_custom_1577488749166{padding-top: 32px !important;padding-bottom: 50px !important;background-color: #f8f8f8 !important;}.vc_custom_1577137102438{padding-top: 50px !important;padding-right: 8% !important;padding-bottom: 50px !important;padding-left: 8% !important;background-color: #f8f8f8 !important;}.vc_custom_1576455642694{padding-top: 32px !important;padding-right: 24px !important;padding-bottom: 32px !important;padding-left: 24px !important;background-image: url(https://sanangel.com.co/wp-content/uploads/2019/12/h1-img-1.jpg?id=5732.webp) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1576455786408{background-image: url(https://sanangel.com.co/wp-content/uploads/2019/12/h1-img-2.jpg?id=5731.webp) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1576281824823{padding-right: 8% !important;padding-left: 8% !important;}.vc_custom_1608218224815{padding-bottom: 20px !important;}.vc_custom_1614980848909{padding-top: 40px !important;padding-right: 100px !important;padding-bottom: 40px !important;padding-left: 100px !important;background-color: #fffaf9 !important;}
+</style>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="wp-block-library-css" href="https://sanangel.com.co/wp-content/litespeed/css/f04b28a6a8d47b07002f8c83ecd85088.css?ver=85088" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/f04b28a6a8d47b07002f8c83ecd85088.css?ver=85088' type='text/css' media='all' /></noscript>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="wc-blocks-vendors-style-css" href="https://sanangel.com.co/wp-content/litespeed/css/ba2665cc9085d0f205fcbfa03f0bdc85.css?ver=bdc85" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/ba2665cc9085d0f205fcbfa03f0bdc85.css?ver=bdc85' type='text/css' media='all' /></noscript>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="wc-blocks-style-css" href="https://sanangel.com.co/wp-content/litespeed/css/11412f25ba38758080d1030d2f53db5e.css?ver=3db5e" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/11412f25ba38758080d1030d2f53db5e.css?ver=3db5e' type='text/css' media='all' /></noscript>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="contact-form-7-css" href="https://sanangel.com.co/wp-content/litespeed/css/ce4be844bdce1e319ef4667362d166d7.css?ver=166d7" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/ce4be844bdce1e319ef4667362d166d7.css?ver=166d7' type='text/css' media='all' /></noscript>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="woo-custom-related-products-css" href="https://sanangel.com.co/wp-content/litespeed/css/081c9b79448ac4e5b49fea4764b39b5e.css?ver=39b5e" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/081c9b79448ac4e5b49fea4764b39b5e.css?ver=39b5e' type='text/css' media='all' /></noscript>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="woocommerce-layout-css" href="https://sanangel.com.co/wp-content/litespeed/css/3ce8e3c6e9d18fd1342993408de66d56.css?ver=66d56" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/3ce8e3c6e9d18fd1342993408de66d56.css?ver=66d56' type='text/css' media='all' /></noscript>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" id="woocommerce-smallscreen-css" href="https://sanangel.com.co/wp-content/litespeed/css/eee8c522ae56f08e14f701950c74849d.css?ver=4849d" type="text/css" media="only screen and (max-width: 768px)"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/eee8c522ae56f08e14f701950c74849d.css?ver=4849d' type='text/css' media='only screen and (max-width: 768px)' /></noscript>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="woocommerce-general-css" href="https://sanangel.com.co/wp-content/litespeed/css/73b1a8d59d392b11f1aff1d1b284bb39.css?ver=4bb39" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/73b1a8d59d392b11f1aff1d1b284bb39.css?ver=4bb39' type='text/css' media='all' /></noscript>
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="dgwt-wcas-style-css" href="https://sanangel.com.co/wp-content/litespeed/css/321ecf7c4b62f6faea5631a0033db794.css?ver=db794" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/321ecf7c4b62f6faea5631a0033db794.css?ver=db794' type='text/css' media='all' /></noscript>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://sanangel.com.co/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css' type='text/css' media='screen' />
+<![endif]-->
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="woo-variation-swatches-css" href="https://sanangel.com.co/wp-content/litespeed/css/59aa517f90b3540fac5a9be4d55484f6.css?ver=484f6" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/59aa517f90b3540fac5a9be4d55484f6.css?ver=484f6' type='text/css' media='all' /></noscript>
+<style id="woo-variation-swatches-inline-css" type="text/css">
+.variable-item:not(.radio-variable-item) { width : 30px; height : 30px; } .wvs-style-squared .button-variable-item { min-width : 30px; } .button-variable-item span { font-size : 16px; }
+</style>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="woo-variation-swatches-theme-override-css" href="https://sanangel.com.co/wp-content/litespeed/css/b9198e9ab0a0449745ca7f8d88fe5234.css?ver=e5234" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/b9198e9ab0a0449745ca7f8d88fe5234.css?ver=e5234' type='text/css' media='all' /></noscript>
+<link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="stylesheet" id="awcfe-frontend-css" href="https://sanangel.com.co/wp-content/litespeed/css/810a685f73e2be011b0f767aab955e74.css?ver=55e74" type="text/css" media="all"><noscript><link data-optimized="1" rel='stylesheet'  href='https://sanangel.com.co/wp-content/litespeed/css/810a685f73e2be011b0f767aab955e74.css?ver=55e74' type='text/css' media='all' /></noscript>
+<link rel="https://api.w.org/" href="https://sanangel.com.co/wp-json/"><link rel="alternate" type="application/json" href="https://sanangel.com.co/wp-json/wp/v2/pages/4492"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sanangel.com.co/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sanangel.com.co/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.9.5">
+<meta name="generator" content="WooCommerce 6.1.2">
+<link rel="shortlink" href="https://sanangel.com.co/">
+<link rel="alternate" type="application/json+oembed" href="https://sanangel.com.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsanangel.com.co%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://sanangel.com.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsanangel.com.co%2F&amp;format=xml">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Administrador","postID":4492};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WD3WR9F');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><style>.dgwt-wcas-ico-magnifier,.dgwt-wcas-ico-magnifier-handler{max-width:20px}</style>
+<!-- START WooCommerce Pixel Manager -->
+
+        <script data-cfasync="false">
+
+            function wpmExists() {
+                return new Promise(function (resolve, reject) {
+                    (function waitForWpm() {
+                        if (window.wpm) return resolve();
+                        setTimeout(waitForWpm, 30);
+                    })();
+                });
+            }
+
+            window.wpmDataLayer = window.wpmDataLayer || {};
+            window.wpmDataLayer = {"cart":{},"cart_item_keys":{},"pixels":{},"orderDeduplication":true,"position":1,"viewItemListTrigger":{"testMode":false,"backgroundColor":"green","opacity":0.5,"repeat":true,"timeout":1000,"threshold":0.8},"version":{"number":"1.13.1","pro":false}};
+
+        </script>
+
+        
+        <script>
+            wpmDataLayer.shop = {"list_name":"Front Page","list_id":"front_page","page_type":"front_page","currency":"COP","mini_cart":{"track":true},"cookie_consent_mgmt":{"explicit_consent":false}};
+        </script>
+        
+        <script>
+            wpmDataLayer.general = {"variationsOutput":true};
+        </script>
+        
+      <!-- START Google scripts -->
+
+        <script>
+            wpmDataLayer.pixels = {"google":{"ads":{"dynamic_remarketing":{"status":false,"id_type":"post_id","send_events_with_parent_ids":true},"conversionIds":["AW-1007862547"],"google_business_vertical":"retail"},"analytics":{"universal":{"property_id":""},"ga4":{"measurement_id":""},"id_type":"post_id","eec":false},"consent_mode":{"active":false}}};
+        </script>
+        		<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1007862547" data-wpm-src="https://www.googletagmanager.com/gtag/js?id=AW-1007862547" type="text/javascript" data-wpm-cookie-category="ads" data-wpm-pixel-name="google"></script>
+
+		<script type="text/javascript" data-wpm-cookie-category="analytics,ads" data-wpm-pixel-name="google">
+
+
+            
+            function googleConfigConditionsMet(type){
+                if (typeof wpm != 'undefined' && typeof wpm.googleConfigConditionsMet === 'function') {
+                    return wpm.googleConfigConditionsMet(type)
+                } else {
+                    console.error('wpm is not defined. That means you are deferring the script which you shouldn\'t. wpm must be loaded before the inline scripts run. Visitor tracking will continue to work, but visitor cookie consent will be ignored.')
+                    return true
+                }
+            }
+            
+            function getVisitorConsentStatusAndUpdateGoogleConsentSettings(google_consent_settings){
+                if (typeof wpm != 'undefined' && typeof wpm.getVisitorConsentStatusAndUpdateGoogleConsentSettings === 'function') {
+                    return wpm.getVisitorConsentStatusAndUpdateGoogleConsentSettings(google_consent_settings)
+                } else {
+                    console.error('wpm is not defined. That means you are deferring the script which you shouldn\'t. wpm must be loaded before the inline scripts run. Visitor tracking will continue to work, but visitor cookie consent will be ignored.')
+                    return true
+                }
+            }
+        
+            window.dataLayer = window.dataLayer || [];
+
+            window.gtag = function gtag() {
+                dataLayer.push(arguments);
+            }
+    
+            gtag('js', new Date());            
+			if (googleConfigConditionsMet('ads')) gtag('config', 'AW-1007862547');
+        
+        
+        
+
+        
+		//# sourceURL=wpmGoogleInlineScripts.js
+		</script>
+
+	<!-- END Google scripts -->
+
+<!-- END WooCommerce Pixel Manager -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+			<script type="text/javascript">
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+					n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+					document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			</script>
+			<!-- WooCommerce Facebook Integration Begin -->
+			<script type="text/javascript">
+
+				fbq('init', '1726667444302188', {}, {
+    "agent": "woocommerce-6.1.2-2.6.9"
+});
+
+				fbq( 'track', 'PageView', {
+    "source": "woocommerce",
+    "version": "6.1.2",
+    "pluginVersion": "2.6.9"
+} );
+
+				document.addEventListener( 'DOMContentLoaded', function() {
+					jQuery && jQuery( function( $ ) {
+						// Insert placeholder for events injected when a product is added to the cart through AJAX.
+						$( document.body ).append( '<div class=\"wc-facebook-pixel-event-placeholder\"></div>' );
+					} );
+				}, false );
+
+			</script>
+			<!-- WooCommerce Facebook Integration End -->
+			<link rel="icon" href="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-sello-san-angel-favicom-32x32.png" sizes="32x32">
+<link rel="icon" href="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-sello-san-angel-favicom-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-sello-san-angel-favicom-180x180.png">
+<meta name="msapplication-TileImage" content="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-sello-san-angel-favicom-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			.header__contwhatsapp a{
+	color: white;
+}
+
+.header__contwhatsapp a:hover, .category__number a:hover{
+	color: #a9aaab;
+}
+
+.blog-details__p a{
+	color: #4dc0a3;
+}
+
+span.dashicons-chart-bar, .yasr-total-average-container, .yasr-total-average-text{
+	display: none;
+}
+
+body.single-post .wpb_content_element {
+    margin: 0 8%;
+}		</style>
+		<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	<meta name="google-site-verification" content="kM_-dUC4eYiBh_FtqXYkPAn0FV8iuLIniIi3sSp7ys4">
+    
+    <!--<link rel="preload" as="style" type="text/css" href="/css/sanangel.css">-->
+	<link rel="stylesheet" as="style" type="text/css" href="https://sanangel.com.co/wp-content/themes/san-angel/css/owl.carousel.min.css" onload="this.rel='stylesheet'">
+    <link rel="stylesheet" as="style" type="text/css" href="https://sanangel.com.co/wp-content/themes/san-angel/css/fonts.css" onload="this.rel='stylesheet'">
+    <link rel="stylesheet" as="style" type="text/css" href="https://sanangel.com.co/wp-content/themes/san-angel/css/fontawesome.css" onload="this.rel='stylesheet'">
+    <link rel="stylesheet" as="style" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" onload="this.rel='stylesheet'">
+    <link rel="stylesheet" as="style" type="text/css" href="https://sanangel.com.co/wp-content/themes/san-angel/css/woocommerce.css" onload="this.rel='stylesheet'">
+    <link rel="stylesheet" as="style" type="text/css" href="https://sanangel.com.co/wp-content/themes/san-angel/css/style.css" onload="this.rel='stylesheet'">
+
+    
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <meta name="facebook-domain-verification" content="u0blyb98glg53a1etapdjukejpp6mt">
+</head>
+<body class="home page-template-default page page-id-4492 wp-custom-logo theme-san-angel woocommerce-no-js woo-variation-swatches woo-variation-swatches-on-mobile wvs-theme-san-angel wvs-theme-child-san-angel wvs-style-rounded wvs-attr-behavior-blur wvs-no-tooltip wvs-css wvs-show-label wpb-js-composer js-comp-ver-6.0.2 vc_responsive">
+	<!--header-->
+	<header class="desktop-header">
+		<!-- Top Bar -->
+		<div class="topbar">
+            <div class="container">
+                <div class="top-left">
+                    <a href="tel:+573185171116">
+                        <i class="fa fa-phone" style="font-size:15px; position: relative; top: 1px; margin-right: 8px;"></i> 
+                        LLAMA AHORA:  
+                        3185171116                    </a>
+                </div>
+                <div class="top-center">
+                    <i class="fa fa-check" style="background:#fff; color:#000; border-radius:50%; padding: 3px 3px;margin-right: 8px;"></i> Envío el mismo día / servicio 100% garantizado                </div>
+                <div class="top-right">
+                    <a href="https://sanangel.com.co/bogota/" data-envioactual="medellin">Clic para envíos a Bogotá</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <div class="header-wrapper container">
+            <div class="header-logo">
+                <a href="https://sanangel.com.co/" class="navmenu__logo-link" rel="home" aria-current="page"><img data-lazyloaded="1" data-placeholder-resp="400x250" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22250%22%20viewBox%3D%220%200%20400%20250%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%231a1a1a%22%20d%3D%22M0%200h400v250H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(.8%20.8)%20scale(1.5625)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20fill%3D%22%23626262%22%20cx%3D%22121%22%20cy%3D%2264%22%20rx%3D%22255%22%20ry%3D%2229%22%2F%3E%3Cellipse%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-.11174%2040.98211%20-254.99905%20-.69528%20130%20151.8)%22%2F%3E%3Cellipse%20cx%3D%22129%22%20cy%3D%2211%22%20rx%3D%22255%22%20ry%3D%2225%22%2F%3E%3Cellipse%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-92.43041%20-36.48464%206.67003%20-16.8979%20213.2%2024.2)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="400" height="250" data-src="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png" class="navmenu__logo" alt="San Angel Medellin | Flores &amp; Regalos" data-srcset="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png 400w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-300x188.png 300w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-64x40.png 64w" data-sizes="(max-width: 400px) 100vw, 400px"><noscript><img width="400" height="250" src="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png" class="navmenu__logo" alt="San Angel Medellin | Flores &amp; Regalos" srcset="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png 400w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-300x188.png 300w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-64x40.png 64w" sizes="(max-width: 400px) 100vw, 400px" /></noscript></a>            </div>
+            <nav class="header-menu navmenu">
+                <ul class="navmenu__menu">
+                                                                        <li class="dropdown navmenu__link">
+                                <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ocasiones</a>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <ul class="navmenu__menu">
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/4-amor-y-romance-flores-san-angel-floristerias" class="dropdown-item navmenu__link">Amor y romance</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/8-ramos-de-flores-para-cumpleanos" class="dropdown-item navmenu__link">Cumpleaños</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/31-aniversarios-san-angel-floristerias-medellin-regalos" class="dropdown-item navmenu__link">Aniversarios</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/15-nacimiento-arreglos-florales-san-angel-floristerias-medellin" class="dropdown-item navmenu__link">Nacimiento</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/16-funebre-arreglos-florales-san-angel-floristerias-medellin" class="dropdown-item navmenu__link">Fúnebre</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/17-bodas-y-eventos" class="dropdown-item navmenu__link">Bodas y Eventos</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/30-mejorate-pronto-arreglo-florales-floristerias" class="dropdown-item navmenu__link">Mejórate pronto</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/32-para-hombres-regalos-floristerias" class="dropdown-item navmenu__link">Para hombres</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/34-anchetas-" class="dropdown-item navmenu__link">Anchetas</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/37-regalo-grados" class="dropdown-item navmenu__link">Grados</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/38-cajas" class="dropdown-item navmenu__link">Cajas</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/35-mes-de-la-madre-" class="dropdown-item navmenu__link">Mes de la madre</a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/4-amor-y-romance-flores-san-angel-floristerias/" class="navmenu__link">Amor</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/8-ramos-de-flores-para-cumpleanos" class="navmenu__link">Cumpleaños</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/31-aniversarios-san-angel-floristerias-medellin-regalos/" class="navmenu__link">Aniversarios</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/16-funebre-arreglos-florales-san-angel-floristerias-medellin" class="navmenu__link">Fúnebre</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/34-anchetas-" class="navmenu__link">Anchetas</a></li>
+                                                            </ul>
+            </nav>
+            <nav class="header-cart">
+                <ul class="navmenu__cartitems">
+                    <li>
+                        <div class="header_search">
+                            <div class="dgwt-wcas-search-wrapp dgwt-wcas-is-detail-box dgwt-wcas-no-submit woocommerce js-dgwt-wcas-layout-classic dgwt-wcas-layout-classic js-dgwt-wcas-mobile-overlay-disabled">
+		<form class="dgwt-wcas-search-form" role="search" action="https://sanangel.com.co/" method="get">
+		<div class="dgwt-wcas-sf-wrapp">
+							<svg version="1.1" class="dgwt-wcas-ico-magnifier" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 51.539 51.361" enable-background="new 0 0 51.539 51.361" xml:space="preserve">
+		             <path fill="#444" d="M51.539,49.356L37.247,35.065c3.273-3.74,5.272-8.623,5.272-13.983c0-11.742-9.518-21.26-21.26-21.26 S0,9.339,0,21.082s9.518,21.26,21.26,21.26c5.361,0,10.244-1.999,13.983-5.272l14.292,14.292L51.539,49.356z M2.835,21.082 c0-10.176,8.249-18.425,18.425-18.425s18.425,8.249,18.425,18.425S31.436,39.507,21.26,39.507S2.835,31.258,2.835,21.082z"></path>
+				</svg>
+							<label class="screen-reader-text" for="dgwt-wcas-search-input-1">Búsqueda de productos</label>
+
+			<input id="dgwt-wcas-search-input-1" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="¿Qué quieres encontrar?" autocomplete="off">
+			<div class="dgwt-wcas-preloader"></div>
+
+			
+			<input type="hidden" name="post_type" value="product">
+			<input type="hidden" name="dgwt_wcas" value="1">
+
+			
+					</div>
+	</form>
+</div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="https://sanangel.com.co/finalizar-compra/">
+                            <i class="fa fa-shopping-bag"></i><span class="navmenu__circle">0</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://sanangel.com.co/mi-cuenta/">
+                            <i class="fa fa-user"></i><span class="navmenu__txtuser"></span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <header class="mobile-header">
+		<!-- Top Bar -->
+		<div class="topbar">
+            <div class="container">
+                <div class="top-left">
+                    <a href="tel:+573185171116">
+                        <i class="fa fa-phone" style="font-size:15px; position: relative; top: 1px; margin-right: 8px;"></i> 
+                        LLAMA AHORA
+                    </a>
+                </div>
+                <div class="top-right">
+                    <a href="https://sanangel.com.co/bogota/" data-envioactual="medellin">Clic para envíos a Bogotá</a>
+                </div>
+            </div>
+        </div>
+    
+        <!-- Header -->
+        <div class="header-wrapper container">
+            <a href="#" class="open-header-side-holder">
+                <i class="fas fa-bars"></i>
+            </a>
+            <div class="header-logo">
+                <a href="https://sanangel.com.co/" class="navmenu__logo-link" rel="home" aria-current="page"><img data-lazyloaded="1" data-placeholder-resp="400x250" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22250%22%20viewBox%3D%220%200%20400%20250%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%231a1a1a%22%20d%3D%22M0%200h400v250H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(.8%20.8)%20scale(1.5625)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20fill%3D%22%23626262%22%20cx%3D%22121%22%20cy%3D%2264%22%20rx%3D%22255%22%20ry%3D%2229%22%2F%3E%3Cellipse%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-.11174%2040.98211%20-254.99905%20-.69528%20130%20151.8)%22%2F%3E%3Cellipse%20cx%3D%22129%22%20cy%3D%2211%22%20rx%3D%22255%22%20ry%3D%2225%22%2F%3E%3Cellipse%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-92.43041%20-36.48464%206.67003%20-16.8979%20213.2%2024.2)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="400" height="250" data-src="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png" class="navmenu__logo" alt="San Angel Medellin | Flores &amp; Regalos" data-srcset="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png 400w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-300x188.png 300w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-64x40.png 64w" data-sizes="(max-width: 400px) 100vw, 400px"><noscript><img width="400" height="250" src="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png" class="navmenu__logo" alt="San Angel Medellin | Flores &amp; Regalos" srcset="https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1.png 400w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-300x188.png 300w, https://sanangel.com.co/wp-content/uploads/2022/10/cropped-logo-san-angel-1-64x40.png 64w" sizes="(max-width: 400px) 100vw, 400px" /></noscript></a>            </div>
+            <nav class="header-cart">
+                <ul class="navmenu__cartitems">
+                    <li>
+                        <a href="https://sanangel.com.co/finalizar-compra/">
+                            <i class="fa fa-shopping-bag"></i><span class="navmenu__circle">0</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://sanangel.com.co/mi-cuenta/">
+                            <i class="fa fa-user"></i><span class="navmenu__txtuser"></span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        
+        <div class="dgwt-wcas-search-wrapp dgwt-wcas-is-detail-box dgwt-wcas-no-submit woocommerce js-dgwt-wcas-layout-classic dgwt-wcas-layout-classic js-dgwt-wcas-mobile-overlay-disabled">
+		<form class="dgwt-wcas-search-form" role="search" action="https://sanangel.com.co/" method="get">
+		<div class="dgwt-wcas-sf-wrapp">
+							<svg version="1.1" class="dgwt-wcas-ico-magnifier" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 51.539 51.361" enable-background="new 0 0 51.539 51.361" xml:space="preserve">
+		             <path fill="#444" d="M51.539,49.356L37.247,35.065c3.273-3.74,5.272-8.623,5.272-13.983c0-11.742-9.518-21.26-21.26-21.26 S0,9.339,0,21.082s9.518,21.26,21.26,21.26c5.361,0,10.244-1.999,13.983-5.272l14.292,14.292L51.539,49.356z M2.835,21.082 c0-10.176,8.249-18.425,18.425-18.425s18.425,8.249,18.425,18.425S31.436,39.507,21.26,39.507S2.835,31.258,2.835,21.082z"></path>
+				</svg>
+							<label class="screen-reader-text" for="dgwt-wcas-search-input-2">Búsqueda de productos</label>
+
+			<input id="dgwt-wcas-search-input-2" type="search" class="dgwt-wcas-search-input" name="s" value="" placeholder="¿Qué quieres encontrar?" autocomplete="off">
+			<div class="dgwt-wcas-preloader"></div>
+
+			
+			<input type="hidden" name="post_type" value="product">
+			<input type="hidden" name="dgwt_wcas" value="1">
+
+			
+					</div>
+	</form>
+</div>
+
+        <div class="header-side">
+            <div class="close-header-side-holder">
+                <i class="fa fa-times"></i>
+            </div>
+            <nav class="header-menu navmenu">
+                <ul class="navmenu__menu">
+                                                                        <li class="dropdown navmenu__link">
+                                <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ocasiones</a>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <ul class="navmenu__menu">
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/4-amor-y-romance-flores-san-angel-floristerias" class="dropdown-item navmenu__link">Amor y romance</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/8-ramos-de-flores-para-cumpleanos" class="dropdown-item navmenu__link">Cumpleaños</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/31-aniversarios-san-angel-floristerias-medellin-regalos" class="dropdown-item navmenu__link">Aniversarios</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/15-nacimiento-arreglos-florales-san-angel-floristerias-medellin" class="dropdown-item navmenu__link">Nacimiento</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/16-funebre-arreglos-florales-san-angel-floristerias-medellin" class="dropdown-item navmenu__link">Fúnebre</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/17-bodas-y-eventos" class="dropdown-item navmenu__link">Bodas y Eventos</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/30-mejorate-pronto-arreglo-florales-floristerias" class="dropdown-item navmenu__link">Mejórate pronto</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/32-para-hombres-regalos-floristerias" class="dropdown-item navmenu__link">Para hombres</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/34-anchetas-" class="dropdown-item navmenu__link">Anchetas</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/37-regalo-grados" class="dropdown-item navmenu__link">Grados</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/38-cajas" class="dropdown-item navmenu__link">Cajas</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://sanangel.com.co/categoria/35-mes-de-la-madre-" class="dropdown-item navmenu__link">Mes de la madre</a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/4-amor-y-romance-flores-san-angel-floristerias/" class="navmenu__link">Amor</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/8-ramos-de-flores-para-cumpleanos" class="navmenu__link">Cumpleaños</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/31-aniversarios-san-angel-floristerias-medellin-regalos/" class="navmenu__link">Aniversarios</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/16-funebre-arreglos-florales-san-angel-floristerias-medellin" class="navmenu__link">Fúnebre</a></li>
+                                                                                                <li><a href="https://sanangel.com.co/categoria/34-anchetas-" class="navmenu__link">Anchetas</a></li>
+                                                            </ul>
+            </nav>
+        </div>
+    </header>
+    <!--end-header--><div id="primary" class="content-area">
+    <main id="main" class="site-main">
+    
+<article id="post-4492" class="post-4492 page type-page status-publish hentry">
+    
+	
+	<div class="entry-content">
+		<section class="vc_section vc_section-o-content-middle vc_section-flex"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center   full-width">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://sanangel.com.co/categoria/8-ramos-de-flores-para-cumpleanos/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img data-lazyloaded="1" data-placeholder-resp="1280x256" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221280%22%20height%3D%22256%22%20viewBox%3D%220%200%201280%20256%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23cacaca%22%20d%3D%22M0%200h1280v255H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%23f6f6f6%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-75.83976%20357.16075%20-155.01621%20-32.91625%201208.1%20122.7)%22%2F%3E%3Cellipse%20fill%3D%22%23f5f5f5%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-92.2%20135.7%2056.7)%20scale(245.61827%20121.68334)%22%2F%3E%3Cellipse%20fill%3D%22%23b6b6b6%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(396.69246%20161.45744%20-157.4404%20386.82281%20616.7%20100.3)%22%2F%3E%3Cpath%20fill%3D%22%23b9b9b9%22%20fill-opacity%3D%22.5%22%20d%3D%22M1032.5%202.5h25v90h-25z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="1280" height="256" data-src="https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado.jpg" class="vc_single_image-img attachment-full" alt="floristerias medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado.jpg 1280w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-300x60.jpg 300w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-1024x205.jpg 1024w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-768x154.jpg 768w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-600x120.jpg 600w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-64x13.jpg 64w" data-sizes="(max-width: 1280px) 100vw, 1280px"><noscript><img width="1280" height="256" src="https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado.jpg" class="vc_single_image-img attachment-full" alt="floristerias medellin" srcset="https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado.jpg 1280w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-300x60.jpg 300w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-1024x205.jpg 1024w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-768x154.jpg 768w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-600x120.jpg 600w, https://sanangel.com.co/wp-content/uploads/2022/10/floristerias-medellin-Recuperado-64x13.jpg 64w" sizes="(max-width: 1280px) 100vw, 1280px" /></noscript></a>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></section><section class="vc_section vc_custom_1576456384071"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-white vc_tta-style-flat vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-top vc_tta-controls-align-center wpb_animate_when_almost_visible wpb_fadeIn fadeIn"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab=""><a href="#destacados-tab" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text">Destacados</span></a></li><li class="vc_tta-tab" data-vc-tab=""><a href="#mas-vendidos-tab" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text">Más vendidos</span></a></li><li class="vc_tta-tab" data-vc-tab=""><a href="#populares-tab" data-vc-tabs="" data-vc-container=".vc_tta"><span class="vc_tta-title-text">Populares</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="destacados-tab" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#destacados-tab" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Destacados</span></a></h4></div><div class="vc_tta-panel-body"><div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-9543 status-publish first instock product_cat-21-120000-precios-floristerias product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-8-ramos-de-flores-para-cumpleanos product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail featured shipping-taxable purchasable product-type-simple">
+	<a href="https://sanangel.com.co/producto/evora/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23bba8ae%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%234f0015%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-69.2993%20-22.56908%2026.136%20-80.25165%20145.3%2097)%22%2F%3E%3Cpath%20fill%3D%22%23fdffff%22%20fill-opacity%3D%22.5%22%20d%3D%22M340%20325l-148.4-34.2L258.8-.4l148.4%2034.3z%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-51.43134%20-30.17459%2021.51208%20-36.66645%2037.2%20275.5)%22%2F%3E%3Cellipse%20fill%3D%22%23cb2660%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-9.45422%20-35.53158%2079.02483%20-21.02688%20130.7%2049)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="cilindro con 24 rosas medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="cilindro con 24 rosas medellin" srcset="https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2020/11/evora-2022.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Évora – 24 rosas</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>149.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/evora/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-9384 status-publish instock product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-38-cajas product_cat-sin-categorizar has-post-thumbnail featured shipping-taxable purchasable product-type-simple"><a href="https://sanangel.com.co/producto/evora/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/caja-agata-12-rosas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23bfb7ba%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%236c3044%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-84.0168%20-66.43994%2034.23315%20-43.28961%2085.6%2098)%22%2F%3E%3Cellipse%20fill%3D%22%23fbffff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-22.12016%2062.39191%20-280.99068%20-99.62122%20127.8%20280.6)%22%2F%3E%3Cellipse%20fill%3D%22%23fcffff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-37.57666%2037.43935%20-89.7341%20-90.0632%20264.7%2040.5)%22%2F%3E%3Cellipse%20fill%3D%22%23752e45%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-20.87933%2025.14927%20-40.5346%20-33.65248%2076.6%2086)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="caja agata 12 rosas" data-srcset="https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="caja agata 12 rosas" srcset="https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-12.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Caja Agata – 12 rosas</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>99.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/caja-agata-12-rosas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-992 status-publish last instock product_cat-medellin product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-8-ramos-de-flores-para-cumpleanos has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/caja-agata-12-rosas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/cesta-de-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23aa9d90%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%231f0900%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-68.4%20172.7%20-34.4)%20scale(82.14417%20101.69061)%22%2F%3E%3Cellipse%20fill%3D%22%23f1feff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(179.9%2068.7%20134.1)%20scale(298.82813%2038.42945)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-144.5%20137.7%20-27.3)%20scale(180.13026%2053.64581)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(51%208.7%2050.8)%20scale(44.60357%20256.93685)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="flores medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="flores medellin" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/cesta-de-amor-new.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Cesta de amor</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>109.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/cesta-de-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-991 status-publish first instock product_cat-medellin product_cat-sin-categorizar product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-8-ramos-de-flores-para-cumpleanos product_cat-37-regalo-grados product_cat-30-mejorate-pronto-arreglo-florales-floristerias has-post-thumbnail sale featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/cesta-de-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/amor-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">¡Oferta!</span>
+	<img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23a4ae71%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%235c7300%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(95.4%20.1%20131)%20scale(103.48135%20110.63001)%22%2F%3E%3Cellipse%20fill%3D%22%23f2efff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-57.08346%203.13174%20-16.36983%20-298.37942%20299.4%20155.6)%22%2F%3E%3Cellipse%20fill%3D%22%23d0caf0%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-87.5%20184.4%2089.2)%20scale(35.68477%20279.84976)%22%2F%3E%3Cellipse%20fill%3D%22%23e9efcd%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(20.83313%2031.97%20-136.31424%2088.82866%2055.4%2012.2)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="amor amor medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="amor amor medellin" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Amor, amor</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>149.900</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>139.900</bdi></span></ins></span>
+</a></li><a href="https://sanangel.com.co/producto/amor-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-982 status-publish instock product_cat-compra-por-ocasion product_cat-medellin product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-8-ramos-de-flores-para-cumpleanos product_cat-35-mes-de-la-madre has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/amor-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/destellos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23b1b3a5%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%230f1b00%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(14.5%20-470.2%20632.2)%20scale(96.76525%2088.13151)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(2.44033%2043.35335%20-298.35583%2016.79425%20210.4%20267.8)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(138.6%20121.1%2055)%20scale(52.79498%20204.71217)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-43.86119%20-42.35559%20186.0421%20-192.65528%20.6%2041.8)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="destellos 24 rosas" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="destellos 24 rosas" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Destellos</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>159.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/destellos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-974 status-publish last instock product_cat-compra-por-ocasion product_cat-medellin product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-20-90000-120000-precios-floristerias product_cat-8-ramos-de-flores-para-cumpleanos product_cat-37-regalo-grados product_cat-35-mes-de-la-madre has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/destellos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/presente/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23c8b5bb%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%236b0427%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-165.2%2071.5%2039.6)%20scale(75.3662%2065.99079)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(62.4343%2020.54572%20-93.4098%20283.85358%20261.6%20211.5)%22%2F%3E%3Cellipse%20fill%3D%22%23effffc%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-8.1%201195.4%2081)%20scale(59.30721%2095.74138)%22%2F%3E%3Cellipse%20fill%3D%22%23899994%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-81.7097%2078.35678%20-28.94841%20-30.18712%20160.9%20183.3)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Presente bouquet rosas medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Presente bouquet rosas medellin" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Presente</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>119.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/presente/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-948 status-publish first instock product_cat-13-ella product_cat-compra-por-ocasion product_cat-8-ramos-de-flores-para-cumpleanos product_cat-medellin product_cat-35-mes-de-la-madre product_cat-15-nacimiento-arreglos-florales-san-angel-floristerias-medellin product_cat-populares product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/presente/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/deleite/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23bdbe96%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%237b7200%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(45.6767%2088.28526%20-92.1037%2047.65228%20145%20155.2)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-131.1%20187.7%2085.3)%20scale(55.12239%20153.57999)%22%2F%3E%3Cellipse%20fill%3D%22%23f0efff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-105.91937%20116.66589%20-38.1897%20-34.6719%2040.2%2033)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(31.8685%20-40.9369%20142.28589%20110.76654%20264.2%2026.1)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Deleite</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>174.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/deleite/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-942 status-publish instock product_cat-inicio product_cat-medellin product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-21-120000-precios-floristerias product_cat-8-ramos-de-flores-para-cumpleanos product_cat-37-regalo-grados product_cat-35-mes-de-la-madre has-post-thumbnail featured downloadable shipping-taxable purchasable product-type-simple"><a href="https://sanangel.com.co/producto/deleite/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/universo-encantado/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23c1a59c%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(.6%20.6)%20scale(1.17188)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20fill%3D%22%237a0022%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(84.75256%205.18369%20-3.7785%2061.77803%20128.8%2084.3)%22%2F%3E%3Cellipse%20fill%3D%22%23f7ffdd%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-48.78772%2013.37936%20-67.44026%20-245.92034%2019.7%20146)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(36.45828%20-9.99744%2066.79305%20243.57838%20249.2%2046)%22%2F%3E%3Cellipse%20fill%3D%22%2393003c%22%20cx%3D%22107%22%20cy%3D%2283%22%20rx%3D%2282%22%20ry%3D%2236%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/281_UNIVERSOENCANTADO.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Universo encantado</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>399.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/universo-encantado/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-894 status-publish last instock product_cat-38-cajas product_cat-compra-por-ocasion product_cat-medellin product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-21-120000-precios-floristerias product_cat-8-ramos-de-flores-para-cumpleanos product_cat-35-mes-de-la-madre product_cat-15-nacimiento-arreglos-florales-san-angel-floristerias-medellin has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/universo-encantado/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/reino-de-suenos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23cdaeb8%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%23a4002f%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(2.40186%20-68.78024%2096.84852%203.38202%20146.8%2084.4)%22%2F%3E%3Cpath%20fill%3D%22%23ebffff%22%20fill-opacity%3D%22.5%22%20d%3D%22M310.1%20386.4L11.7%20402%20.4%20186.7%20298.8%20171z%22%2F%3E%3Cellipse%20fill%3D%22%238da59d%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(98.42098%2019.19307%20-8.7135%2044.68235%20143%20164.3)%22%2F%3E%3Cellipse%20fill%3D%22%23d3004c%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(72.61405%20-2.0283%20.91509%2032.76055%20148.6%2075.3)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="reino de sueños rosas medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="reino de sueños rosas medellin" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/reino-de-sueños.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Reino de sueños</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>159.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/reino-de-suenos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a></ul><a href="https://sanangel.com.co/producto/reino-de-suenos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a></div></div></div><div class="vc_tta-panel" id="mas-vendidos-tab" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#mas-vendidos-tab" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Más vendidos</span></a></h4></div><div class="vc_tta-panel-body"><div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-974 status-publish first instock product_cat-compra-por-ocasion product_cat-medellin product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-20-90000-120000-precios-floristerias product_cat-8-ramos-de-flores-para-cumpleanos product_cat-37-regalo-grados product_cat-35-mes-de-la-madre has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://sanangel.com.co/producto/presente/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23c8b5bb%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%236b0427%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-165.2%2071.5%2039.6)%20scale(75.3662%2065.99079)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(62.4343%2020.54572%20-93.4098%20283.85358%20261.6%20211.5)%22%2F%3E%3Cellipse%20fill%3D%22%23effffc%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-8.1%201195.4%2081)%20scale(59.30721%2095.74138)%22%2F%3E%3Cellipse%20fill%3D%22%23899994%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-81.7097%2078.35678%20-28.94841%20-30.18712%20160.9%20183.3)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Presente bouquet rosas medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Presente bouquet rosas medellin" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/presente-new.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Presente</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>119.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/presente/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-9389 status-publish instock product_cat-20-90000-120000-precios-floristerias product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-38-cajas product_cat-sin-categorizar has-post-thumbnail shipping-taxable purchasable product-type-simple"><a href="https://sanangel.com.co/producto/presente/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/caja-agata-24-rosas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23daced1%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%2370192f%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(45.87652%2092.9851%20-51.91115%2025.61166%2087.8%2080.4)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(283.55683%2094.3068%20-29.65417%2089.16264%20118.8%20294.4)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(60.8202%20-39.15505%20145.65943%20226.25529%20242.7%2038.7)%22%2F%3E%3Cellipse%20fill%3D%22%2390aa9e%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-81.8%20168.6%20-8.4)%20scale(44.0741%2080.83588)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="agata 24 rosas medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="agata 24 rosas medellin" srcset="https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2020/10/agata-24-2.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Caja Agata – 24 rosas</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>129.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/caja-agata-24-rosas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-4313 status-publish last instock product_cat-20-90000-120000-precios-floristerias product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-8-ramos-de-flores-para-cumpleanos product_cat-medellin product_cat-36-otros product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/caja-agata-24-rosas/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/corazon-corazon/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23a88c8a%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(.6%20.6)%20scale(1.17188)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20fill%3D%22%23691300%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-169.3%2078.9%2051.8)%20scale(73.86994%2094.86583)%22%2F%3E%3Cellipse%20fill%3D%22%23eefcff%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(93.1%20-47.4%2068.7)%20scale(255%2048.57354)%22%2F%3E%3Cellipse%20fill%3D%22%23eff%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(69.57753%20-75.33442%2031.7285%2029.30388%20255%20214.6)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20cx%3D%2251%22%20rx%3D%2266%22%20ry%3D%2250%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/09/corazon-corazon-2-floristerias.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Corazón Corazón</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>114.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/corazon-corazon/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-991 status-publish first instock product_cat-medellin product_cat-sin-categorizar product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-8-ramos-de-flores-para-cumpleanos product_cat-37-regalo-grados product_cat-30-mejorate-pronto-arreglo-florales-floristerias has-post-thumbnail sale featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/corazon-corazon/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/amor-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">¡Oferta!</span>
+	<img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23a4ae71%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%235c7300%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(95.4%20.1%20131)%20scale(103.48135%20110.63001)%22%2F%3E%3Cellipse%20fill%3D%22%23f2efff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-57.08346%203.13174%20-16.36983%20-298.37942%20299.4%20155.6)%22%2F%3E%3Cellipse%20fill%3D%22%23d0caf0%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-87.5%20184.4%2089.2)%20scale(35.68477%20279.84976)%22%2F%3E%3Cellipse%20fill%3D%22%23e9efcd%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(20.83313%2031.97%20-136.31424%2088.82866%2055.4%2012.2)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="amor amor medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="amor amor medellin" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new-64x64.jpg.webp 64w, https://sanangel.com.co/wp-content/uploads/2019/02/amo-amor-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Amor, amor</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>149.900</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>139.900</bdi></span></ins></span>
+</a></li><a href="https://sanangel.com.co/producto/amor-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-982 status-publish instock product_cat-compra-por-ocasion product_cat-medellin product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-22-rosas-san-angel-floristerias-medellin product_cat-8-ramos-de-flores-para-cumpleanos product_cat-35-mes-de-la-madre has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/amor-amor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/destellos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23b1b3a5%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%230f1b00%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(14.5%20-470.2%20632.2)%20scale(96.76525%2088.13151)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(2.44033%2043.35335%20-298.35583%2016.79425%20210.4%20267.8)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(138.6%20121.1%2055)%20scale(52.79498%20204.71217)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-43.86119%20-42.35559%20186.0421%20-192.65528%20.6%2041.8)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="destellos 24 rosas" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="destellos 24 rosas" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/destellos-24.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Destellos</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>159.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/destellos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-953 status-publish last instock product_cat-21-120000-precios-floristerias product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-compra-por-ocasion product_cat-8-ramos-de-flores-para-cumpleanos product_cat-25-gerberas product_cat-medellin product_cat-30-mejorate-pronto-arreglo-florales-floristerias product_cat-15-nacimiento-arreglos-florales-san-angel-floristerias-medellin product_cat-populares product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail shipping-taxable purchasable product-type-simple"><a href="https://sanangel.com.co/producto/destellos/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/fantasia-del-bosque/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23bbab91%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(.6%20.6)%20scale(1.17188)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20fill%3D%22%23633a00%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(15.21295%20-70.70098%2096.25296%2020.71105%20126.4%20126.3)%22%2F%3E%3Cellipse%20fill%3D%22%23fbffff%22%20cx%3D%22115%22%20cy%3D%22236%22%20rx%3D%22255%22%20ry%3D%2232%22%2F%3E%3Cellipse%20fill%3D%22%23fff4ff%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-253.59516%20-26.73004%203.47918%20-33.0079%20159.4%2019.2)%22%2F%3E%3Cellipse%20fill%3D%22%236a7f25%22%20cx%3D%22125%22%20cy%3D%22167%22%20rx%3D%2259%22%20ry%3D%2259%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Fantasía del bosque</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>169.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/fantasia-del-bosque/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a></ul><a href="https://sanangel.com.co/producto/fantasia-del-bosque/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a></div></div></div><div class="vc_tta-panel" id="populares-tab" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#populares-tab" data-vc-accordion="" data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Populares</span></a></h4></div><div class="vc_tta-panel-body"><div class="woocommerce columns-3 "><ul class="products columns-3">
+<li class="product type-product post-953 status-publish first instock product_cat-21-120000-precios-floristerias product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-compra-por-ocasion product_cat-8-ramos-de-flores-para-cumpleanos product_cat-25-gerberas product_cat-medellin product_cat-30-mejorate-pronto-arreglo-florales-floristerias product_cat-15-nacimiento-arreglos-florales-san-angel-floristerias-medellin product_cat-populares product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://sanangel.com.co/producto/fantasia-del-bosque/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23bbab91%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(.6%20.6)%20scale(1.17188)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20fill%3D%22%23633a00%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(15.21295%20-70.70098%2096.25296%2020.71105%20126.4%20126.3)%22%2F%3E%3Cellipse%20fill%3D%22%23fbffff%22%20cx%3D%22115%22%20cy%3D%22236%22%20rx%3D%22255%22%20ry%3D%2232%22%2F%3E%3Cellipse%20fill%3D%22%23fff4ff%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-253.59516%20-26.73004%203.47918%20-33.0079%20159.4%2019.2)%22%2F%3E%3Cellipse%20fill%3D%22%236a7f25%22%20cx%3D%22125%22%20cy%3D%22167%22%20rx%3D%2259%22%20ry%3D%2259%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/210_FANTANSIADELBOSQUE.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Fantasía del bosque</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>169.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/fantasia-del-bosque/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-949 status-publish instock product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-compra-por-ocasion product_cat-8-ramos-de-flores-para-cumpleanos product_cat-medellin product_cat-populares product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/fantasia-del-bosque/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/vendimia-24/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23c7a890%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%23741800%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-10.65703%2063.03415%20-148.12434%20-25.04303%20150.4%20120.8)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-12.51443%2096.35574%20-296.33925%20-38.48775%20117.9%20299.4)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-291.76819%20-44.41982%205.45537%20-35.83317%20199.6%2017.2)%22%2F%3E%3Cellipse%20fill%3D%22%23503700%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(.4749%2045.34715%20-85.47213%20.8951%20122.5%20116.8)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/177_VENDIMIA.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Vendimia 24</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>149.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/vendimia-24/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-948 status-publish last instock product_cat-13-ella product_cat-compra-por-ocasion product_cat-8-ramos-de-flores-para-cumpleanos product_cat-medellin product_cat-35-mes-de-la-madre product_cat-15-nacimiento-arreglos-florales-san-angel-floristerias-medellin product_cat-populares product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/vendimia-24/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/deleite/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23bdbe96%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%237b7200%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(45.6767%2088.28526%20-92.1037%2047.65228%20145%20155.2)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(-131.1%20187.7%2085.3)%20scale(55.12239%20153.57999)%22%2F%3E%3Cellipse%20fill%3D%22%23f0efff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-105.91937%20116.66589%20-38.1897%20-34.6719%2040.2%2033)%22%2F%3E%3Cellipse%20fill%3D%22%23fff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(31.8685%20-40.9369%20142.28589%20110.76654%20264.2%2026.1)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE.jpg.webp 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-300x300.jpg.webp 300w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-100x100.jpg.webp 100w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-600x600.jpg.webp 600w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-150x150.jpg.webp 150w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE-768x768.jpg.webp 768w, https://sanangel.com.co/wp-content/uploads/2019/02/221_DELEITE.jpg.webp 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Deleite</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>174.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/deleite/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a><li class="product type-product post-944 status-publish first instock product_cat-21-120000-precios-floristerias product_cat-4-amor-y-romance-flores-san-angel-floristerias product_cat-31-aniversarios-san-angel-floristerias-medellin-regalos product_cat-13-ella product_cat-8-ramos-de-flores-para-cumpleanos product_cat-37-regalo-grados product_cat-medellin product_cat-30-mejorate-pronto-arreglo-florales-floristerias product_cat-35-mes-de-la-madre product_cat-15-nacimiento-arreglos-florales-san-angel-floristerias-medellin product_cat-populares product_cat-22-rosas-san-angel-floristerias-medellin has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes"><a href="https://sanangel.com.co/producto/deleite/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	</a><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img data-lazyloaded="1" data-placeholder-resp="300x300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22300%22%20height%3D%22300%22%20viewBox%3D%220%200%20300%20300%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23afa1a6%22%20d%3D%22M0%200h300v300H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%232d0d18%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(81.8319%2012.81453%20-15.027%2095.96044%20148%20132.2)%22%2F%3E%3Cellipse%20fill%3D%22%23f8ffff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-20.8452%20298.1002%20-50.64083%20-3.54115%20290.2%20149)%22%2F%3E%3Cellipse%20fill%3D%22%23f6ffff%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(8.84565%20298.69718%20-32.03079%20.94856%2025.6%20182.8)%22%2F%3E%3Cellipse%20fill%3D%22%23ed2266%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-1.54167%2032.40875%20-64.67627%20-3.07661%20151%2047.7)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="300" height="300" data-src="https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="soñador con rosas y ghypso" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new.jpg 800w" data-sizes="(max-width: 300px) 100vw, 300px"><noscript><img width="300" height="300" src="https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="soñador con rosas y ghypso" srcset="https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-300x300.jpg 300w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-150x150.jpg 150w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-768x768.jpg 768w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-600x600.jpg 600w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-100x100.jpg 100w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new-64x64.jpg 64w, https://sanangel.com.co/wp-content/uploads/2019/02/soñador-new.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">Soñador</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>149.900</bdi></span></span>
+</a></li><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a></ul><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+</a></div></div></div></div></div></div></div></div></div></div></div></section><section class="vc_section vc_custom_1576453712964"><div class="vc_row wpb_row vc_row-fluid home-feature_banner-holder wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1576455642694"><div class="wpb_wrapper"><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<div class="wpb_text_column wpb_content_element  feature_banner-subtitle">
+		<div class="wpb_wrapper">
+			<h2>Envío gratis</h2>
+<h2>el mismo día</h2>
+
+		</div>
+	</div>
+</a></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1576455786408"><div class="wpb_wrapper"><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<div class="wpb_text_column wpb_content_element  feature_banner-subtitle icon-diamond">
+		<div class="wpb_wrapper">
+			<h3>Servicio 100% garantizado</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  feature_banner-subtitle icon-spa">
+		<div class="wpb_wrapper">
+			<h3>Flores hermosas</h3>
+
+		</div>
+	</div>
+
+	</a><div class="wpb_text_column wpb_content_element  feature_banner-subtitle icon-whatsapp"><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		</a><div class="wpb_wrapper"><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+			</a><h3><a href="https://sanangel.com.co/producto/sonador/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"></a><a href="https://api.whatsapp.com/send?phone=573185171116">Whatsapp 318 517 1116</a></h3>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></section><section class="vc_section vc_custom_1577488749166 vc_section-has-fill"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
+		<div class="wpb_wrapper">
+			<h1 style="text-align: center;">Floristería Medellín – San Angel</h1>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1576281824823 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-2 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img data-lazyloaded="1" data-placeholder-resp="400x612" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22400%22%20height%3D%22612%22%20viewBox%3D%220%200%20400%20612%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23989697%22%20d%3D%22M0%200h399v612H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(1.2%201.2)%20scale(2.39063)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(7.23012%2039.74576%20-95.8112%2017.42893%20101%20247.9)%22%2F%3E%3Cellipse%20fill%3D%22%23ebedec%22%20cy%3D%22106%22%20rx%3D%22109%22%20ry%3D%22109%22%2F%3E%3Cellipse%20fill%3D%22%23191b1a%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-37.00071%20-8.2297%2011.83457%20-53.20816%20134.5%2016.5)%22%2F%3E%3Cellipse%20fill%3D%22%23f9d4e0%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(.0554%2022.79501%20-78.0094%20.18958%20160%20167.9)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="400" height="612" data-src="https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-las-ventajas-de-comprar-en-floristerias-web.jpg.webp" class="vc_single_image-img attachment-large" alt="" data-srcset="https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-las-ventajas-de-comprar-en-floristerias-web.jpg.webp 400w, https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-las-ventajas-de-comprar-en-floristerias-web-196x300.jpg.webp 196w" data-sizes="(max-width: 400px) 100vw, 400px"><noscript><img width="400" height="612" src="https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-las-ventajas-de-comprar-en-floristerias-web.jpg.webp" class="vc_single_image-img attachment-large" alt="" srcset="https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-las-ventajas-de-comprar-en-floristerias-web.jpg.webp 400w, https://sanangel.com.co/wp-content/uploads/2019/06/san-angel-las-ventajas-de-comprar-en-floristerias-web-196x300.jpg.webp 196w" sizes="(max-width: 400px) 100vw, 400px" /></noscript></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img data-lazyloaded="1" data-placeholder-resp="527x700" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22527%22%20height%3D%22700%22%20viewBox%3D%220%200%20527%20700%22%3E%3Cfilter%20id%3D%22c%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2255%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%238d7f84%22%20d%3D%22M0%200h525v700H0z%22%2F%3E%3Cg%20filter%3D%27url(%23c)%27%20fill-opacity%3D%27.5%27%3E%3Cellipse%20fill%3D%22%2305120d%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(57.94076%20-397.16946%20146.79559%2021.41516%20418.5%20561.6)%22%2F%3E%3Cellipse%20fill%3D%22%23f7dae3%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22rotate(142.3%2047.4%2043.3)%20scale(315.55136%20274.4567)%22%2F%3E%3Cellipse%20fill%3D%22%23d6b8c2%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-71.87505%20-517.2962%2097.65493%20-13.56854%2066.2%20492)%22%2F%3E%3Cellipse%20fill%3D%22%23c5587d%22%20fill-opacity%3D%22.5%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-194.36236%20-8.48604%204.87045%20-111.55163%20136.3%20352.4)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="527" height="700" data-src="https://sanangel.com.co/wp-content/uploads/2020/01/floristerias-home.jpg.webp" class="vc_single_image-img attachment-full" alt="floristerias medellin" data-srcset="https://sanangel.com.co/wp-content/uploads/2020/01/floristerias-home.jpg.webp 527w, https://sanangel.com.co/wp-content/uploads/2020/01/floristerias-home-226x300.jpg.webp 226w" data-sizes="(max-width: 527px) 100vw, 527px"><noscript><img width="527" height="700" src="https://sanangel.com.co/wp-content/uploads/2020/01/floristerias-home.jpg.webp" class="vc_single_image-img attachment-full" alt="floristerias medellin" srcset="https://sanangel.com.co/wp-content/uploads/2020/01/floristerias-home.jpg.webp 527w, https://sanangel.com.co/wp-content/uploads/2020/01/floristerias-home-226x300.jpg.webp 226w" sizes="(max-width: 527px) 100vw, 527px" /></noscript></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
+		<div class="wpb_wrapper">
+			<h2 style="font-style: italic; color: #999;">Floristerias Medellin</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp text-align-justify">
+		<div class="wpb_wrapper">
+			<p><strong>San Angel floristerias Medellin</strong> realizamos arreglos florales con flores hermosas y con nuestro estilo distintivo que simboliza lo que para nosotros es el buen gusto!</p>
+<ul>
+<li>Más de <strong>15.000 arreglos florales</strong> entregados con éxito en Medellin y parte de su area metropolitana</li>
+<li>Más de <strong>5 años de experiencia</strong></li>
+<li><strong>Los mejores reviews</strong> en Facebook y Google en <strong>floristerias medellin</strong></li>
+<li>Arreglos florales hechos <strong>sobre pedido</strong></li>
+<li>Entregas el <strong>mismo día&nbsp;</strong></li>
+<li>Pedidos <strong>online y Whatsapp</strong></li>
+</ul>
+<p>Estamos seguros que con nuestros arreglos florales transmitirá lo que que siente y piensa. En nuestro catalogo contamos con arreglos florales especiales para todo tipo de ocasión. En San Angel <strong>floristerias medellin</strong> va a encontrar las más hermosas flores seleccionadas cuidadosamente por nuestras floristas con los que creamos ramos de flores que le harán brillar. En nuestro catalogo contamos con ramos de rosas, <strong>ramos de flores</strong> tropicales, anchetas y arreglos frutales, todos debidamente seleccionados para obtener lo mejor de las flores medellin. <strong>Floristerias en Medellin Flores a domicilio Medellin San Angel</strong>&nbsp;es un honor transmitir sus sentimientos a través de nuestros ramos de flores.</p>
+<p>Entregamos a domicilio en la ciudad de Medellín y parte se área metropolitana, nuestro entrega a domicilio es gratis. <strong>Floristerias en Medellin Flores a domicilio Medellin San Angel</strong> puede pagar con tarjetas de crédito, sistema PSE, consignación. No dude en enviar las <strong>flores medellin</strong> a través de San Angel floristerias medellin.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 16px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></section><section class="vc_section"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1608218224815">
+		<h2 class="wpb_heading wpb_singleimage_heading">Visita nuestro perfil #dileconsanangel</h2>
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://instagram.com/sanangelflores" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img data-lazyloaded="1" data-placeholder-resp="185x67" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22185%22%20height%3D%2267%22%20viewBox%3D%220%200%20185%2067%22%3E%3Cfilter%20id%3D%22b%22%3E%3CfeGaussianBlur%20stdDeviation%3D%2212%22%20%2F%3E%3C%2Ffilter%3E%3Cpath%20fill%3D%22%23141414%22%20d%3D%22M0%200h185v67H0z%22%2F%3E%3Cg%20filter%3D%22url(%23b)%22%20transform%3D%22translate(.5%20.5)%22%20fill-opacity%3D%22.5%22%3E%3Cellipse%20fill%3D%22%232a2a2a%22%20rx%3D%221%22%20ry%3D%221%22%20transform%3D%22matrix(-1.06778%2019.42887%20-142.47523%20-7.8302%2059%2029.3)%22%2F%3E%3Cellipse%20cx%3D%2231%22%20cy%3D%2260%22%20rx%3D%2257%22%20ry%3D%2213%22%2F%3E%3Cellipse%20cx%3D%22154%22%20cy%3D%223%22%20rx%3D%2274%22%20ry%3D%2213%22%2F%3E%3Cellipse%20cx%3D%22162%22%20cy%3D%2263%22%20rx%3D%2251%22%20ry%3D%2216%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E" class="vc_single_image-img " data-src="https://sanangel.com.co/wp-content/uploads/2019/12/1200px-Instagram_logo.svg_-185x67.png" width="185" height="67" alt="1200px-Instagram_logo.svg" title="1200px-Instagram_logo.svg"><noscript><img class="vc_single_image-img " src="https://sanangel.com.co/wp-content/uploads/2019/12/1200px-Instagram_logo.svg_-185x67.png" width="185" height="67" alt="1200px-Instagram_logo.svg" title="1200px-Instagram_logo.svg" /></noscript></a>
+		</figure>
+	</div>
+</div></div></div></div></section><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1614980848909">
+		<div class="wpb_wrapper">
+			<p><strong>Preguntas Frecuentes:</strong></p>
+<p class="p1">Mientras navegamos en un mundo lleno de retos a menudo olvidamos las cosas bonitas de la vida mientras caemos en nuestras rutinas diarias, por esto en San Angel nos enorgullece llegar a las personas con nuestros hermosos arreglos florales.</p>
+<p class="p1">Basado en nuestro amor por el arte floral nos esforzamos por crear un estilo propio pensando en lo que para nosotros es el buen gusto.</p>
+<p class="p1">Nuestras tierras son conocidas por sus hermosas flores, que son el maximo producto de la naturaleza, por esto gracias a cultivos locales siempre contamos con las flores mas hermosas y frescas de Antioquia y Cundinamarca para nuestras creaciones.</p>
+<p class="p1">Las formas simétricas y simples, buscando diseños modernos y son la base de nuestro catálogo de arreglos florales que hacemos sobre pedido para garantizar flores frescas.</p>
+<p><strong>Donde hacen envíos?</strong></p>
+<p>Por el momento tenemos talleres en Medellín y en Bogotá, en nuestros talleres realizamos los arreglos florales sobre pedido y los enviamos a domicilio.</p>
+<p><strong>Con cuanto tiempo se debe realizar el pedido?</strong></p>
+<p>Estamos en capacidad de tomar pedidos el mismo día. Igualmente se puede programar con tiempo ya sea en nuestra pagina o por whatsapp.</p>
+<p><strong>Cuanto tarda el envío de las flores?</strong></p>
+<p>Tenemos dos horarios de entrega de las flores a domicilio, el primero es de 9am a 1 pm y el segundo de 2pm a 7pm, no tenemos horas fijas de entrega para los arreglos florales, realizamos las entregas en carro ya que las flores son delicadas y con esto podemos garantizar que lleguen a su destino en buen estado y realizamos rutas de entrega de forma lógica.</p>
+<p><strong>Como puedo realizar un pedido de flores a domicilio?</strong></p>
+<p>En esta pagina web puede realizar todo el pedido y el pago con tarjetas de crédito, PSE y pagos en efectivo en Bancos y SuRed, Efecty, Baloto, etc. a través de PayU que es la plataforma de pagos que usamos para seguridad en todas las transacciones. Igualmente se pueden realizar pedidos a través de Whatsapp al +57 3185171116.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-4492 -->
+
+    </main><!-- #main -->
+</div><!-- #primary -->
+
+        
+        <footer class="vc_section">
+            <div class="footer-top vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle">
+                <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
+                    <h6>Servicio al Cliente</h6>
+                    <ul id="menu-footer-1" class="footer__menu footer__menu--left"><li id="menu-item-6356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6356"><a href="https://sanangel.com.co/nosotros/">Nosotros</a></li>
+<li id="menu-item-6366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6366"><a href="https://sanangel.com.co/contactenos/">Contáctenos</a></li>
+<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="https://sanangel.com.co/blog/">Blog</a></li>
+<li id="menu-item-7584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7584"><a href="https://sanangel.com.co/faqs/">FAQs</a></li>
+</ul>                </div>
+                <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
+                    <h6>Conócenos</h6>
+                    <ul id="menu-footer-2" class="footer__menu footer__menu--middle"><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a target="_blank" rel="noopener" href="https://sanangel.com.co/wp-content/uploads/2019/07/politicas-de-uso.pdf">Políticas de protección de datos</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a target="_blank" rel="noopener" href="https://sanangel.com.co/wp-content/uploads/2019/07/politicas-de-uso.pdf">Términos y condiciones</a></li>
+<li id="menu-item-6380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6380"><a href="https://sanangel.com.co/faqs/">Preguntas Frecuentes</a></li>
+</ul>                </div>
+                <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill">
+                    <h6>Síguenos</h6>
+                    <ul class="footer__social">
+                                                        <li><a href="https://www.facebook.com/SanAngelFlores?fref=ts" target="_blank"><i class="fab fa-facebook"></i>facebook</a></li>
+                                                        <li><a href="https://twitter.com/Sanangelflores" target="_blank"><i class="fab fa-twitter"></i>twitter</a></li>
+                                                        <li><a href="https://www.instagram.com/sanangelflores/?hl=es-la" target="_blank"><i class="fab fa-instagram"></i>instagram</a></li>
+                                                        <li><a href="https://api.whatsapp.com/send?phone=573185171116" target="_blank"><i class="fab fa-whatsapp"></i>whatsapp</a></li>
+                                            </ul>
+                </div>
+                <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-has-fill" style="color: #8b8b8b;font-size: 12px;">
+                    <h6>Ubícanos</h6>
+                    Transversal 32 sur # 31e-68
+Envigado - Antioquia - Colombia(574) 3185171116 (57) <a href="https://api.whatsapp.com/send?phone=573185171116" target="_blank" rel="noopener">318 517 1116</a>                </div>
+            </div>
+            <div class="footer-bottom vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle">
+                <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="pay-logo" data-src="https://sanangel.com.co/wp-content/uploads/2019/12/payupagosseguros-1-e1577501765127.png"><noscript><img class="pay-logo" src="https://sanangel.com.co/wp-content/uploads/2019/12/payupagosseguros-1-e1577501765127.png"></noscript>
+
+                <div class="wrapper">
+                    <div class="wpb_column vc_column_container vc_col-sm-4 vc_col-has-fill signature-name">
+                        <div class="text-widget">
+                            Materializado por <a href="http://dodosolutions.com/" rel="nofollow noopener noreferrer" target="_blank">© DODO Solutions</a> 2020
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-4 vc_col-has-fill">
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-4 vc_col-has-fill signature-social">
+                        <a href="https://www.instagram.com/dodosolutions" target="_blank"><span>INSTAGRAM</span></a>
+                        <a href="https://www.facebook.com/dodosolutions" target="_blank"><span>FACEBOOK</span></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Lo sentimos, este producto no está disponible. Por favor elige otra combinación.</p>
+</script>
+<script type="text/javascript" src="https://sanangel.com.co/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script></body></html>
